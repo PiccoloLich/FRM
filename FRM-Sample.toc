@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The FRM exam}{3}{0}{1}
+\beamer@sectionintoc {2}{Key to success}{5}{0}{2}
+\beamer@sectionintoc {3}{Foundations of risk management}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Overview}{6}{0}{3}
+\beamer@sectionintoc {4}{Risk management: a helicopter view}{9}{0}{4}
