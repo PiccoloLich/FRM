@@ -1,4 +1,7 @@
 \documentclass[10pt]{beamer}
+
+
+
 \usetheme[
 %%% option passed to the outer theme
 %    progressstyle=fixedCircCnt,   % fixedCircCnt, movingCircCnt (moving is deault)
@@ -36,6 +39,14 @@
 % colored hyperlinks
 \newcommand{\chref}[2]{
 	\href{#1}{{\usebeamercolor[bg]{Feather}#2}}
+}
+
+\AtBeginSection[]
+{
+	\begin{frame}<beamer>
+	\frametitle{Outline}
+	\tableofcontents[sections = \thesection]
+	\end{frame}
 }
 
 %-------------------------------------------------------
